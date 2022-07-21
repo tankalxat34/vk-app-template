@@ -1,0 +1,20 @@
+{
+  "name": "vk-app-template",
+  "version": "1.0.0",
+  "description": "Шаблон для моих приложений ВКонтакте на NodeJS, ExpressJS и EJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tankalxat34/vk-app-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tankalxat34/vk-app-template/issues"
+  },
+  "homepage": "https://github.com/tankalxat34/vk-app-template#readme"
+}
