@@ -1,4 +1,4 @@
-# vk-app-template
+# web-app-template
 Шаблон для сайта на NodeJS, ExpressJS и EJS.
 
 # Использование
